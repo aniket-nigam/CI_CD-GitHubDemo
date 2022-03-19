@@ -21,6 +21,12 @@ git rm example_renamed.txt # Deleting a file
 
 git add -A # Used for adding the files which are renamed or which are newly created 
 
+#Course 32 (Simple Branching Example)
+
+git branch # To see the list of all the branches 
+
+git checkout -b branch_name # To switch to a different branch
+
 
 
  
