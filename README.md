@@ -15,6 +15,8 @@ git config --global --list # View the list of the configs crated by the user
 
 git mv example.txt example_renamed.txt # Renaming a file from example.txt to example_renamed.txt
 
+git rm example_renamed.txt # Deleting a file
+
 
 
  
