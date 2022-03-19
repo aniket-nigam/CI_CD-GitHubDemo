@@ -1,1 +1,1 @@
-This is a README.md file for GIT
+This is a README.md file for GIT.
