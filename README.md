@@ -17,6 +17,10 @@ git mv example.txt example_renamed.txt # Renaming a file from example.txt to exa
 
 git rm example_renamed.txt # Deleting a file
 
+#Course 26 (Managing File Outside GIT)
+
+git add -A # Used for adding the files which are renamed or which are newly created 
+
 
 
  
