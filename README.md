@@ -27,6 +27,19 @@ git branch # To see the list of all the branches
 
 git checkout -b branch_name # To switch to a different branch
 
+git merge updates # Commit to the HEAD branch
 
+git branch -d branch_name # To delete a branch in GIT 
+
+#Course 35 (Saving work in Progress with Stashing)
+
+git stash pop # Applies the stash and delets the applied stash from stashing area
+
+
+#Course 42 (To verify if their is a remote branch)
+ 
+git remote -v # Verify is their is a remote branch associated with the current repo
+
+git remote add origin https://github.com/aniket-nigam/CI_CD-GitHubDemo.git # Add a new Repository to GitHub
 
  
